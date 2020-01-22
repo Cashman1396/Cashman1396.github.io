@@ -1,11 +1,11 @@
 # Site settings
 author: Chris Ashman
-title: 
+title: Road to Software Engineering
 header-img: img/home-bg.png
 email: chrisashman96@gmail.com
 copyright_name: Chris Ashman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Technology's Open Road
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Cashman1396
