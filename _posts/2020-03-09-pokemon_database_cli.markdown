@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pokemon Database CLI"
-date:       2020-03-09 18:55:21 +0000
+date:       2020-03-09 14:55:22 -0400
 permalink:  pokemon_database_cli
 ---
 
