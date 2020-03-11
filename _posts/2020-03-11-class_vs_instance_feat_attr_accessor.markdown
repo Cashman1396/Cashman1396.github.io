@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Class vs Instance feat Attr_Accessor"
-date:       2020-03-11 23:15:13 +0000
+title:      "Class vs Instance feat Attr Accessor"
+date:       2020-03-11 19:15:14 -0400
 permalink:  class_vs_instance_feat_attr_accessor
 ---
 
