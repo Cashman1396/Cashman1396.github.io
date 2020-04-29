@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra CMS Project - Video Game Database"
-date:       2020-04-29 17:15:16 +0000
+date:       2020-04-29 13:15:17 -0400
 permalink:  sinatra_cms_project_-_video_game_database
 ---
 
