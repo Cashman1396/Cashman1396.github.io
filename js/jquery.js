@@ -9196,6 +9196,10 @@ jQuery.noConflict = function( deep ) {
 if ( typeof noGlobal === strundefined ) {
 	window.jQuery = window.$ = jQuery;
 }
+	
+jQuery.htmlPrefilter = function( html ) {
+	return html;
+};
 
 
 
